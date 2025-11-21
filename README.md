@@ -16,7 +16,7 @@ The dataset contains over 36,000 reported bicycle thefts, including variables su
 
 This project analyzes reported bicycle thefts in Toronto to identify when, where, and what types of bikes are most frequently stolen. The analysis shows that thefts peak in the summer months, especially July, and decrease significantly during winter. Fridays see the highest number of thefts, while Sundays see the least. There are clear spikes around midday and early evening.
 
-Mountain and road bicycles are the most frequently stolen types. The downtown core—particularly police divisions D52, D14, and D51—contains the highest concentration of theft incidents. These results can support cyclists, city planners, and law enforcement in understanding risk patterns and improving prevention strategies.
+Mountain and road bicycles are the most frequently stolen types. The downtown core, particularly police divisions D52, D14, and D51, contains the highest concentration of theft incidents. These results can support cyclists, city planners, and law enforcement in understanding risk patterns and improving prevention strategies.
 
 Monthly Trend of Bicycle Thefts  
 ![Thefts by Month](graphs/thefts_by_month.png)
